@@ -1,0 +1,15 @@
+.container {
+    padding-top: 5%;
+}
+
+button {
+    margin: 4% 0;
+}
+
+#result {
+    overflow: scroll;
+}
+
+.alert-primary {
+    text-align: center;
+}
